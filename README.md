@@ -1,6 +1,6 @@
 # AWS-PYTHON-LABS
 
-Welcome to the **AWS-PYTHON-LABS** repository! This collection showcases my progress and proficiency in Python programming as I tackle various projects and challenges.
+Welcome to the **AWS-PYTHON-LABS** repository! This collection showcases my progress and proficiency in Python programming as I tackle various projects and challenges. This is my python journey from my Amazon Web Services Cloud Computing Course.
 
 ## 🚀 About This Repository
 This repository contains a series of Python labs where I demonstrate my skills in:
